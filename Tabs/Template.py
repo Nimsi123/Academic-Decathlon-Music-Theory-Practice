@@ -2,10 +2,10 @@ import tkinter as tk
 from tkinter import ttk
 from functools import partial
 
-from Question import Question
+from AcadecMusicTutor.Algorithms_Verification.Question import Question
 
-from Verify import submitAnswer
-from Verify import nextQuestion
+from AcadecMusicTutor.Algorithms_Verification.Verify import submitAnswer
+from AcadecMusicTutor.Algorithms_Verification.Verify import nextQuestion
 
 class Template:
 

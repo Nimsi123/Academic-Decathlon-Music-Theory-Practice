@@ -2,10 +2,10 @@ import tkinter as tk
 from tkinter import ttk
 from functools import partial
 
-from Template import Template
-from Scale_Question import Scale_Question
-from Chord_Question import Chord_Question
-from Interval_Question import Interval_Question
+from AcadecMusicTutor.Tabs.Template import Template
+from AcadecMusicTutor.Algorithms_Verification.Scale_Question import Scale_Question
+from AcadecMusicTutor.Algorithms_Verification.Chord_Question import Chord_Question
+from AcadecMusicTutor.Algorithms_Verification.Interval_Question import Interval_Question
 
 
 class Screen:

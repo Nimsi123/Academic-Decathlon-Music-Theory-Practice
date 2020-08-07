@@ -59,8 +59,8 @@ class Question:
     else:
       user_input = user_input[0]
 
-    print("user input: ", repr(user_input))
-    print("answer: ", repr(answer))
+    #print("user input: ", repr(user_input))
+    #print("answer: ", repr(answer))
     if user_input == answer:
       return True
     else:

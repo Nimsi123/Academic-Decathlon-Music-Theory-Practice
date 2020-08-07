@@ -1,4 +1,4 @@
-from Question import Question
+from AcadecMusicTutor.Algorithms_Verification.Question import Question
 
 def submitAnswer(page):
 
@@ -12,10 +12,10 @@ def submitAnswer(page):
     #validate the answer, and give the user feedback.
     if Question.check_user_input(page.selection, page.package[1], page.tabName):
         #the user inputted the correct answer
-        print("CORRECT")
+        page.questionText.set("CORRECT")
     else:
         #the user did NOT input the correct answer
-        print("WRONG. Here is the answer\n", page.package[1])
+        page.questionText.set("Wrong.\n" + page.package[0] + f"\nThe correct answer is {page.package[1]}")
 
 def nextQuestion(page):
 

@@ -1,4 +1,4 @@
-from Question import Question
+from AcadecMusicTutor.Algorithms_Verification.Question import Question
 import random
 
 class Interval_Question(Question):
