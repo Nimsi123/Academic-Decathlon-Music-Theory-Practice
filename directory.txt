@@ -1,0 +1,21 @@
+Acadec Music Theory Tutor
+
+	Algorithms_Verification
+		Verify.py
+		Chord_Question.py
+		Interval_Question.py
+		Scale_Question.py
+	Tabs
+		Template.py
+	Displays
+		Screen.py
+	Drivers
+		PracticeDriver.py
+	Extra
+		Droplist_widget.py
+		GUI_-_Music_Theory.py
+		GUI.py
+
+		Acadec-Number-based-Music-Theory
+
+		Music_Theory_source

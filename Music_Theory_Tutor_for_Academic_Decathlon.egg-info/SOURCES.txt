@@ -1,0 +1,21 @@
+setup.py
+Algorithms_Verification/Chord_Question.py
+Algorithms_Verification/Interval_Question.py
+Algorithms_Verification/Question.py
+Algorithms_Verification/Scale_Question.py
+Algorithms_Verification/Verify.py
+Algorithms_Verification/__init__.py
+Displays/Screen.py
+Displays/__init__.py
+Drivers/PracticeDriver.py
+Drivers/__init__.py
+Extra/Droplist widget.py
+Extra/GUI - Music Theory.py
+Extra/GUI.py
+Music_Theory_Tutor_for_Academic_Decathlon.egg-info/PKG-INFO
+Music_Theory_Tutor_for_Academic_Decathlon.egg-info/SOURCES.txt
+Music_Theory_Tutor_for_Academic_Decathlon.egg-info/dependency_links.txt
+Music_Theory_Tutor_for_Academic_Decathlon.egg-info/not-zip-safe
+Music_Theory_Tutor_for_Academic_Decathlon.egg-info/top_level.txt
+Tabs/Template.py
+Tabs/__init__.py
